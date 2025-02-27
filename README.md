@@ -25,8 +25,8 @@ An intelligent financial analysis agent powered by OpenAI's GPT-4 that provides 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd stock-market-analysis-agent
+git clone https://github.com/pakagronglb/python-stock-advisory-agent
+cd python-stock-advisory-agent
 ```
 
 2. Install required dependencies:
